@@ -1,0 +1,61 @@
+.div{
+    position: relative;
+  
+    top: 150px;
+}
+#button{
+
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin: 1px 0;
+    font-weight: bold;
+    color: white;
+    background: black;
+    padding: 3px;
+}
+
+#large{
+    width: 105px;
+    background-color: gray;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+
+}
+#large1{
+    width: 104px;
+   
+
+}
+#color{
+    background-color: gray;
+}
+#colorOrnge{
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin: 1px 0;
+    font-weight: bold;
+    color: white;
+    padding: 3px;
+    background-color: orange;
+}
+#showDiv{
+    height: 80px;
+    width: 211px;
+    background-color: #252121;
+    border-radius: 5px 5px 0 0;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    text-align: right;
+    padding: 37px 14px;
+    color: white;
+    outline: none;
+    border: none;
+}
